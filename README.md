@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luis Miguel Montell Mira
 - 👀 I’m interested in web and videogames programming
 - 🌱 I’m currently learning videogame programming with Unity and C#
-- 💞️ I’m looking to collaborate in projects where I can learn more about programming
+- 💞️ I’m looking to collaborate in projects to learn more about programming and develop my skills
 - 📫 How to reach me: luismontellmira@gmail.com
 
 <!---
